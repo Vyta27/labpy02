@@ -20,7 +20,8 @@
 
    Nilai akhir adalah 85. Nilai huruf adalah "A". Keterangan: "LULUS".
 
-# Latihan 2 
+# Latihan 2 : Membuat Proggram Menampilkan Status Gaji Karyawan
+
 
    
 
