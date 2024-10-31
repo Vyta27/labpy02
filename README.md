@@ -21,7 +21,20 @@
    Nilai akhir adalah 85. Nilai huruf adalah "A". Keterangan: "LULUS".
 
 # Latihan 2 : Membuat Proggram Menampilkan Status Gaji Karyawan
-![Screenshot 2024-10-31 103318](https://github.com/user-attachments/assets/cdbfc88a-07d0-47c1-838c-76cf88349cdc)
+![Screenshot 2024-10-31 113016](https://github.com/user-attachments/assets/7726f830-ffa3-4b2a-8e36-da533b3aeb01)
+
+# Input data :
+  - Kode ini meminta pengguna untuk memasukkan gaji, status keluarga, dan kepemilikan rumah. Variabel gaji menyimpan nilai gaji sebagai integer.
+  - Variabel berkeluarga akan bernilai True jika pengguna memasukkan "Y" (sudah berkeluarga) dan False jika "T". Variabel punya rumah akan bernilai True jika pengguna 
+    memasukkan "Y" (punya rumah) dan False jika "T".
+# Pengecekkan gaji :
+  - Jika gaji lebih dari 3.000.000, maka program akan mencetak "Gaji sudah di atas UMR". Jika tidak, program akan langsung mencetak "Gaji belum UMR" pada bagian else.
+# Pengecekkan status keluarga :
+  - Jika berkeluarga bernilai True,program akan menampilkan "Wajib ikutan asuransi dan menabung untuk pensiun". Jika berkeluarga bernilai False, program akan menampilkan 
+   "Tidak perlu ikutan asuransi".
+# Pengecekkan kepemilikan rumah :
+  -  Jika punya_rumah bernilai True, program akan menampilkan "Wajib bayar pajak rumah". Jika punya_rumah bernilai False, program akan menampilkan "Tidak wajib bayar pajak 
+     rumah".
 
 
 
