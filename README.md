@@ -20,6 +20,8 @@
 
    Nilai akhir adalah 85. Nilai huruf adalah "A". Keterangan: "LULUS".
 
+# Latihan 2 
+
    
 
 
