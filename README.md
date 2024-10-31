@@ -21,6 +21,8 @@
    Nilai akhir adalah 85. Nilai huruf adalah "A". Keterangan: "LULUS".
 
 # Latihan 2 : Membuat Proggram Menampilkan Status Gaji Karyawan
+![Screenshot 2024-10-31 103318](https://github.com/user-attachments/assets/cdbfc88a-07d0-47c1-838c-76cf88349cdc)
+
 
 
    
