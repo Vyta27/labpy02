@@ -12,6 +12,13 @@
 # Penentuan nilai huruf
  - A jika lebih dari 80 B jika lebih dari 70 C jika lebih dari 50 D jika lebih dari 40 E jika di bawah atau sama dengan 40
 # Output hasil
+![Screenshot 2024-10-31 101800](https://github.com/user-attachments/assets/4fa11123-4440-4f91-84eb-7bb3b6976beb)
+
+ - Kode ini menampilkan hasil, termasuk nilai UTS, UAS, tugas, nilai akhir, nilai huruf, dan keterangan lulus atau tidak lulus.
+
+   Hasil Program: Pada contoh output di sisi kanan gambar, jika nilai tugas, UTS, dan UAS adalah 90, 85, dan 80, maka
+
+   Nilai akhir adalah 85. Nilai huruf adalah "A". Keterangan: "LULUS".
 
    
 
