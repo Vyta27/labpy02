@@ -43,6 +43,16 @@
     tidak perlu ikut asuransi dan Menampilkan bahwa pengguna wajib membayar pajak rumah.
 
 # Latihan 3 : Penggunaan kondisi OR Program membandingkan 3 input bilangan lainnnya, maka cetak pernyataan "BENAR"
+![Screenshot 2024-10-31 102356](https://github.com/user-attachments/assets/2b9c0990-bbcb-472a-a8e0-751ec4877c94)
+
+# Input data :
+  - Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dari pengguna dikonversi ke tipe int agar dapat digunakan dalam operasi aritmatika.
+# Pengecekan kondisi :
+  - Kode ini memeriksa apakah salah satu dari kondisi berikut terpenuhi: a + b == c b + c == a c + a == b Jika salah satu kondisi di atas benar, program akan mencetak 
+    "BENAR". Jika tidak ada kondisi yang terpenuhi, program akan mencetak "SALAH".
+  - Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat merupakan hasil penjumlahan dari dua bilangan lainnya. Pada contoh output di sebelah kanan 
+    gambar: Jika a = 100, b = 50, dan c = 200, maka tidak ada kondisi yang terpenuhi, sehingga hasilnya adalah "SALAH".
+# Output hasil :
 
 
 
