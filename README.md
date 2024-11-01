@@ -37,7 +37,12 @@
      rumah".
   - Jika gaji tidak lebih dari 3.000.000, program akan langsung menampilkan "Gaji belum UMR" tanpa melakukan pengecekan tambahan
 # Output hasil :
+![Screenshot 2024-10-31 102008](https://github.com/user-attachments/assets/a49a908f-cd60-43ee-b92d-0c8e8c9fb104)
 
+  - Pada contoh output pada gambar, jika gaji 8.000.000, status berkeluarga "T", dan punya rumah "Y":Program menampilkan bahwa gaji di atas UMR. Menampilkan bahwa pengguna 
+    tidak perlu ikut asuransi dan Menampilkan bahwa pengguna wajib membayar pajak rumah.
+
+# Latihan 3 : Penggunaan kondisi OR Program membandingkan 3 input bilangan lainnnya, maka cetak pernyataan "BENAR"
 
 
 
