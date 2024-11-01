@@ -56,7 +56,24 @@
 ![Screenshot 2024-10-31 102416](https://github.com/user-attachments/assets/62ab8930-50b8-4825-a0f1-ec0ae4558751)
 
 # Kasus 1 : Program pemesanan tiket bioskop, Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
+![Screenshot 2024-10-31 103318](https://github.com/user-attachments/assets/dbd22638-6445-44f9-96d2-412b393faeca)
 
+- Mendefinisikan harga tiket :
+  - harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket_vip: Harga tiket VIP didefinisikan sebesar 100000 diskon_member: Besar diskon untuk 
+    member didefinisikan sebesar 0.20 (20%)
+- Meminta input dari user :
+  - Program meminta user untuk memasukkan tipe tiket (reguler/vip) dan menyimpannya ke dalam variabel tipe_tiket.
+  - Program meminta user untuk memasukkan status member (ya/tidak) dan menyimpannya ke dalam variabel status_member.
+  - Kedua input dari user diubah menjadi huruf kecil menggunakan fungsi lower().
+- Menghitung harga tiket berdasarkan tipe :
+  - Jika tipe_tiket adalah "reguler", maka harga_tiket diset menjadi harga_tiket_reguler.
+  - Jika tipe_tiket adalah "vip", maka harga_tiket diset menjadi harga_tiket_vip.
+  - Jika tipe_tiket bukan "reguler" atau "vip", maka program menampilkan pesan "Tipe tiket tidak valid" dan keluar dari program.
+- Mengecek status untuk member diskon :
+  - Program memeriksa nilai status_member: Jika status_member adalah "ya", maka total_harga dihitung dengan rumus harga_tiket * (1 - diskon_member), yang memberikan diskon 
+    kepada member.
+  - Jika status_member bukan "ya", maka total_harga diset sama dengan harga_tiket tanpa diskon.
+- Output hasil :
 
 
 
