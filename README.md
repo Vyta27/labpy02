@@ -62,8 +62,9 @@
 ![Screenshot 2024-10-31 103318](https://github.com/user-attachments/assets/dbd22638-6445-44f9-96d2-412b393faeca)
 
 - Flowchart :
-
   
+![Screenshot 2024-10-31 104422](https://github.com/user-attachments/assets/81ca293a-ae0d-40ae-936e-42ce27a3ba35)
+
 - Mendefinisikan harga tiket :
   - harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket_vip: Harga tiket VIP didefinisikan sebesar 100000 diskon_member: Besar diskon untuk 
     member didefinisikan sebesar 0.20 (20%)
@@ -88,6 +89,7 @@
 
 - Flowchart
   
+![Screenshot 2024-10-31 104358](https://github.com/user-attachments/assets/d649c283-3651-41b4-801f-c2817abec1bc)
 
 - Input: Kode program meminta pengguna untuk memasukkan operator aritmatika (+, -, *, /) dan dua angka.
 - Validasi Operator: Kode menggunakan struktur if-elif-else untuk memvalidasi operator yang dimasukkan.
