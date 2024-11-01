@@ -12,6 +12,7 @@
 - Penentuan nilai huruf
   - A jika lebih dari 80 B jika lebih dari 70 C jika lebih dari 50 D jika lebih dari 40 E jika di bawah atau sama dengan 40
 - Output hasil
+  
 ![Screenshot 2024-10-31 101800](https://github.com/user-attachments/assets/4fa11123-4440-4f91-84eb-7bb3b6976beb)
 
  - Kode ini menampilkan hasil, termasuk nilai UTS, UAS, tugas, nilai akhir, nilai huruf, dan keterangan lulus atau tidak lulus.
@@ -37,6 +38,7 @@
      rumah".
   - Jika gaji tidak lebih dari 3.000.000, program akan langsung menampilkan "Gaji belum UMR" tanpa melakukan pengecekan tambahan
 - Output hasil :
+  
 ![Screenshot 2024-10-31 102008](https://github.com/user-attachments/assets/a49a908f-cd60-43ee-b92d-0c8e8c9fb104)
 
   - Pada contoh output pada gambar, jika gaji 8.000.000, status berkeluarga "T", dan punya rumah "Y":Program menampilkan bahwa gaji di atas UMR. Menampilkan bahwa pengguna 
@@ -53,6 +55,7 @@
   - Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat merupakan hasil penjumlahan dari dua bilangan lainnya. Pada contoh output pada
     gambar: Jika a = 5, b = 5, dan c = 10, maka kondisi terpenuhi, sehingga hasilnya adalah "BENAR".
 - Output hasil :
+  
 ![Screenshot 2024-10-31 102416](https://github.com/user-attachments/assets/62ab8930-50b8-4825-a0f1-ec0ae4558751)
 
 # Kasus 1 : Program pemesanan tiket bioskop, Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
@@ -74,14 +77,25 @@
     kepada member.
   - Jika status_member bukan "ya", maka total_harga diset sama dengan harga_tiket tanpa diskon.
 - Output hasil :
+  
 ![Screenshot 2024-10-31 103400](https://github.com/user-attachments/assets/4651fa6a-6061-45ad-aa75-c67ed23748cd)
 
 # Kasus 2 : program kalkulator sederhana,Kode program ini dirancang untuk melakukan operasi aritmatika sederhana berdasarkan input pengguna. 
+![Screenshot 2024-10-31 103854](https://github.com/user-attachments/assets/09fd2ed8-5e63-47ad-bf38-5c52a5da3300)
 
+- Flowchart
+  
 
-
-
-
+- Input: Kode program meminta pengguna untuk memasukkan operator aritmatika (+, -, *, /) dan dua angka.
+- Validasi Operator: Kode menggunakan struktur if-elif-else untuk memvalidasi operator yang dimasukkan.
+- Operasi Aritmatika: Berdasarkan operator yang valid, kode melakukan operasi aritmatika yang sesuai dan menyimpan hasilnya dalam variabel hasil.
+- Validasi Pembagian dengan Nol: Kode mengecek apakah angka kedua adalah nol untuk menghindari pembagian dengan nol. Jika angka kedua nol, program akan menampilkan pesan 
+  error dan menghentikan eksekusi.
+- Output hasil :
+  
+ - Jika operator valid dan operasi berhasil dilakukan, kode mencetak hasil perhitungan ke layar.
+ - Jika operator tidak valid atau terjadi pembagian dengan nol, kode mencetak pesan error. Secara keseluruhan, kode ini mengilustrasikan penggunaan struktur kontrol if- 
+   elif-else untuk membuat program sederhana yang dapat melakukan operasi aritmatika dasar.
 
    
 
