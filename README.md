@@ -61,6 +61,9 @@
 # Kasus 1 : Program pemesanan tiket bioskop, Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
 ![Screenshot 2024-10-31 103318](https://github.com/user-attachments/assets/dbd22638-6445-44f9-96d2-412b393faeca)
 
+- Flowchart :
+
+  
 - Mendefinisikan harga tiket :
   - harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket_vip: Harga tiket VIP didefinisikan sebesar 100000 diskon_member: Besar diskon untuk 
     member didefinisikan sebesar 0.20 (20%)
@@ -93,6 +96,8 @@
   error dan menghentikan eksekusi.
 - Output hasil :
   
+![Screenshot 2024-10-31 104111](https://github.com/user-attachments/assets/00001f4d-a356-4673-8549-068d6803efff)
+
  - Jika operator valid dan operasi berhasil dilakukan, kode mencetak hasil perhitungan ke layar.
  - Jika operator tidak valid atau terjadi pembagian dengan nol, kode mencetak pesan error. Secara keseluruhan, kode ini mengilustrasikan penggunaan struktur kontrol if- 
    elif-else untuk membuat program sederhana yang dapat melakukan operasi aritmatika dasar.
